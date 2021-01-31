@@ -22,7 +22,7 @@ Based on the DataFrame above, the total number of helpful non-Vine reviews out o
 
 Based on the DataFrame above, the number of Vine reviews with 5 stars was 139
 
-![non-Vine Reviews with 5 stars](https://github.com/Kesh0326/Amazon_Vine_Analysis/blob/main/number%20of%20helpful%20non%20Vine%20reviews.png)
+![non-Vine Reviews with 5 stars]()
 
 Based on the DataFrame above, the number of non-Vine reviews with 5 stars was 32,665
 
