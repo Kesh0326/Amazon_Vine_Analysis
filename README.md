@@ -35,3 +35,6 @@ Based on the DataFrame above, the percentage of Vine reviews with 5 stars out of
 ![Percentage of non-Vine Reviews with 5 stars](https://github.com/Kesh0326/Amazon_Vine_Analysis/blob/main/percentage%20of%20non%20Vine%20reviews%20with%205%20stars.png)
 
 Based on the DataFrame above, the percentage of non-Vine reviews with 5 stars out of the total number of 5 star reviews is more than 99%
+
+## Summary
+Based on the analysis results above, there is no positivity bias for reviews in the Vine program. An additional area of analysis that can that further support the results above is if the 'helpful' data was filtered to include only verified purchases, to further reduce the scope of meaningful data and help deduce if there is any positivity bias for reviews in the Vine program.
