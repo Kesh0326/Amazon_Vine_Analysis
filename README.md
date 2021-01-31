@@ -4,7 +4,7 @@
 The purpose of the analysis is to determine if having a paid Vine review makes a difference in the percentage of 5 star review
 
 ## Results
-!['helpful' data sample used for analyses](helpful dataframe sample.png)
+!['helpful' data sample used for analyses](https://github.com/Kesh0326/Amazon_Vine_Analysis/blob/main/helpful%20dataframe%20sample.png)
 
 ### Number of Vine reviews and non-Vine reviews
 
